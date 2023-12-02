@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edu0ff
-- 👀 I’m interested in music, philosophy, politics, sustainable living, and more!
+- 👀 I’m interested in music, philosophy, videogames, vampires, politics, sustainable living, and more!
 - 🌱 I’m currently learning 
 - 📫 How to reach me ...
 
