@@ -1,6 +1,6 @@
-🩷 Hi, I’m @Edu0ff  
+### 🩷 Hi, I’m @Edu0ff  
 🔊 I’m interested in music, philosophy, tattoo art, videogames, vampires, politics, sustainable living, and more!  
-🩷 I’m currently building a stronger foundation for my current abilities and knowledge.  
+🔊 I’m currently building a stronger foundation for my current abilities and knowledge.  
 🔊 How to reach me...don't. Just kidding, feel free to add me in any of the socials linked in my profile.  
 
 ![](https://readme-spotify-now-playing-gamma.vercel.app/spotify)
