@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Edu0ff/Edu0ff/main/Banner%20animated.gif)
+
 ### 🩷 Hi, I’m @Edu0ff  
 🔊 I’m interested in music, philosophy, tattoo art, videogames, vampires, politics, sustainable living, and more!  
 🔊 I’m currently building a stronger foundation for my current abilities and knowledge.  
