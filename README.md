@@ -6,7 +6,7 @@
 🔊 How to reach me...don't. Just kidding, feel free to add me in any of the socials linked in my profile.  
 🔊 I speak fluent english, portuguese and spanish btw!  
 
-![](https://readme-spotify-now-playing-gamma.vercel.app/spotify)
+![](https://readme-spotify-now-playing-gamma.vercel.app/spotify)  
 
 ***
 
@@ -32,8 +32,10 @@
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36" height="36" alt="VSCode"/></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="36" height="36" alt="Fedora"/></a>
   <a><img src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" width="36" height="36" alt="Cobol" /></a>
-  <a><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" width="36" height="36" alt="Cobol" /></a>
-         
+  <a><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" width="36" height="36" alt="Cobol" /></a>  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu0ff&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Edu0ff/Edu0ff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
