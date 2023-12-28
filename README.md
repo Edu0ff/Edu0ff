@@ -1,17 +1,20 @@
 ![](https://raw.githubusercontent.com/Edu0ff/Edu0ff/main/Banner%20animated.gif)
 
-### 🩷 Hi, I’m @Edu0ff  
-🔊 I’m interested in music, philosophy, tattoo art, videogames, vampires, politics, sustainable living, and more!  
-🔊 I’m currently building a stronger foundation for my current abilities and knowledge.  
-🔊 How to reach me...don't. Just kidding, feel free to add me in any of the socials linked in my profile.  
-🔊 I speak fluent english, portuguese and spanish btw!  
+<h2>🩷 About Me</h2>
 
-![](https://readme-spotify-now-playing-gamma.vercel.app/spotify)  
+<p>🔊 I’m interested in music, philosophy, tattoo art, videogames, vampires, politics, sustainable living, and more!</p>
+<p>🔊 I’m currently building a stronger foundation for my current abilities and knowledge.</p>
+<p>🔊 How to reach me...don't. Just kidding, feel free to add me in any of the socials linked in my profile.</p>  
+<p>🔊 I speak fluent english, portuguese and spanish btw!</p>
+
+<div align="left">
+<img src="https://readme-spotify-now-playing-gamma.vercel.app/spotify"/>
+</div>  
 
 ***
 
-### 🩷 Tools and Languages 🩷
-
+<h2 align="right">👩‍💻 Tools and Languages</h2>
+<div align="right">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,9 +35,12 @@
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36" height="36" alt="VSCode"/></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="36" height="36" alt="Fedora"/></a>
   <a><img src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" width="36" height="36" alt="Cobol" /></a>
-  <a><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" width="36" height="36" alt="Cobol" /></a>  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu0ff&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <a><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent-600x489.png" width="36" height="36" alt="Cobol" /></a>
+</div>  
+<br>
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu0ff&layout=compact&theme=dracula"/>
+</div>
 
 <!---
 Edu0ff/Edu0ff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
