@@ -3,7 +3,7 @@
 <h2>🩷 About Me</h2>
 
 <p>🔊 I’m interested in music (I love singing and take classes for it :D, also producing and playing the bass guitar). I also love philosophy, tattoo art, videogames, vampires, politics, sustainable living, and more!</p>
-<p>🔊 I’m currently building a stronger foundation for my current abilities and knowledge.</p>
+<p>🔊 I’m currently building a stronger foundation for my current abilities and knowledge, engaging in personal projects and trying to put together a nice portfolio.</p>
 <p>🔊 How to reach me...don't. Just kidding, feel free to add me in any of the socials linked in my profile.</p>  
 <p>🔊 I speak fluent english, portuguese and spanish btw!</p>
 
